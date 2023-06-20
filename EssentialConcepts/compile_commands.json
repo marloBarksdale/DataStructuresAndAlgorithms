@@ -1,0 +1,45 @@
+[{
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/CPPClass/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/CPPClass",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/CPPClass/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/CPPClass/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/TemplateClasses/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/TemplateClasses",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/TemplateClasses/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/TemplateClasses/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PointersToStructures/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PointersToStructures",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PointersToStructures/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PointersToStructures/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/StructureAsParameter/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/StructureAsParameter",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/StructureAsParameter/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/StructureAsParameter/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Reference/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Reference",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Reference/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Reference/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysAsParameters/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysAsParameters",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysAsParameters/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysAsParameters/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Pointers/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Pointers",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Pointers/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Pointers/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Structures/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Structures",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Structures/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Structures/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysInC/main.c",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysInC",
+  "command": "/usr/bin/gcc -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysInC/main.c\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/ArraysInC/main.c\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PassingParameters/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PassingParameters",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PassingParameters/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/PassingParameters/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Arrays/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Arrays",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Arrays/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/EssentialConcepts/Arrays/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ArrayADT" Database="" Version="10000">
+  <Project Name="ArrayADT" Path="ArrayADT/ArrayADT.project" Active="Yes"/>
+  <Project Name="FindingSingleMissingElement" Path="FindingSingleMissingElement/FindingSingleMissingElement.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ArrayADT" ConfigName="Debug"/>
+      <Project Name="FindingSingleMissingElement" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ArrayADT" ConfigName="Release"/>
+      <Project Name="FindingSingleMissingElement" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

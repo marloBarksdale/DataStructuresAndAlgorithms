@@ -1,0 +1,45 @@
+[{
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/FibonacciSeries/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/FibonacciSeries",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/FibonacciSeries/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/FibonacciSeries/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TaylorSeries/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TaylorSeries",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TaylorSeries/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TaylorSeries/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Factorial/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Factorial",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Factorial/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Factorial/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/NestedRecursion/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/NestedRecursion",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/NestedRecursion/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/NestedRecursion/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Power/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Power",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Power/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Power/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/SumOfNaturalNumbers/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/SumOfNaturalNumbers",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/SumOfNaturalNumbers/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/SumOfNaturalNumbers/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TreeRecursion/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TreeRecursion",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TreeRecursion/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TreeRecursion/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/HeadRecursion/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/HeadRecursion",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/HeadRecursion/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/HeadRecursion/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TailRecursion/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TailRecursion",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TailRecursion/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/TailRecursion/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/StaticGlobal/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/StaticGlobal",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/StaticGlobal/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/StaticGlobal/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Recursion/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Recursion",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Recursion/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Recursion/Recursion/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

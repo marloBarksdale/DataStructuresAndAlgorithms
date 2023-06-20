@@ -1,0 +1,25 @@
+[{
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/FindingSingleMissingElement/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/FindingSingleMissingElement",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/FindingSingleMissingElement/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/FindingSingleMissingElement/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/MergeSort.h",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/MergeSort.h\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/MergeSort.h\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/Array.h",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/Array.h\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/Array.h\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/BinarySearch.h",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/BinarySearch.h\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/BinarySearch.h\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/SetOperations.h",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/SetOperations.h\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/ArrayADT/ArrayADT/SetOperations.h\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EssentialConcepts" Database="" Version="10000">
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="ArraysInC" Path="ArraysInC/ArraysInC.project" Active="No"/>
+  <Project Name="Structures" Path="Structures/Structures.project" Active="No"/>
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="Reference" Path="Reference/Reference.project" Active="No"/>
+  <Project Name="PointersToStructures" Path="PointersToStructures/PointersToStructures.project" Active="No"/>
+  <Project Name="PassingParameters" Path="PassingParameters/PassingParameters.project" Active="No"/>
+  <Project Name="ArraysAsParameters" Path="ArraysAsParameters/ArraysAsParameters.project" Active="No"/>
+  <Project Name="StructureAsParameter" Path="StructureAsParameter/StructureAsParameter.project" Active="No"/>
+  <Project Name="CPPClass" Path="CPPClass/CPPClass.project" Active="No"/>
+  <Project Name="TemplateClasses" Path="TemplateClasses/TemplateClasses.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="ArraysInC" ConfigName="Debug"/>
+      <Project Name="Structures" ConfigName="Debug"/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="Reference" ConfigName="Debug"/>
+      <Project Name="PointersToStructures" ConfigName="Debug"/>
+      <Project Name="PassingParameters" ConfigName="Debug"/>
+      <Project Name="ArraysAsParameters" ConfigName="Debug"/>
+      <Project Name="StructureAsParameter" ConfigName="Debug"/>
+      <Project Name="CPPClass" ConfigName="Debug"/>
+      <Project Name="TemplateClasses" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="ArraysInC" ConfigName="Release"/>
+      <Project Name="Structures" ConfigName="Release"/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="Reference" ConfigName="Release"/>
+      <Project Name="PointersToStructures" ConfigName="Release"/>
+      <Project Name="PassingParameters" ConfigName="Release"/>
+      <Project Name="ArraysAsParameters" ConfigName="Release"/>
+      <Project Name="StructureAsParameter" ConfigName="Release"/>
+      <Project Name="CPPClass" ConfigName="Release"/>
+      <Project Name="TemplateClasses" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

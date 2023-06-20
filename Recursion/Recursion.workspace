@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Recursion" Database="" Version="10000">
+  <Project Name="Recursion" Path="Recursion/Recursion.project" Active="No"/>
+  <Project Name="StaticGlobal" Path="StaticGlobal/StaticGlobal.project" Active="No"/>
+  <Project Name="TailRecursion" Path="TailRecursion/TailRecursion.project" Active="No"/>
+  <Project Name="HeadRecursion" Path="HeadRecursion/HeadRecursion.project" Active="No"/>
+  <Project Name="TreeRecursion" Path="TreeRecursion/TreeRecursion.project" Active="No"/>
+  <Project Name="NestedRecursion" Path="NestedRecursion/NestedRecursion.project" Active="No"/>
+  <Project Name="SumOfNaturalNumbers" Path="SumOfNaturalNumbers/SumOfNaturalNumbers.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Power" Path="Power/Power.project" Active="No"/>
+  <Project Name="TaylorSeries" Path="TaylorSeries/TaylorSeries.project" Active="No"/>
+  <Project Name="FibonacciSeries" Path="FibonacciSeries/FibonacciSeries.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Recursion" ConfigName="Debug"/>
+      <Project Name="StaticGlobal" ConfigName="Debug"/>
+      <Project Name="TailRecursion" ConfigName="Debug"/>
+      <Project Name="HeadRecursion" ConfigName="Debug"/>
+      <Project Name="TreeRecursion" ConfigName="Debug"/>
+      <Project Name="NestedRecursion" ConfigName="Debug"/>
+      <Project Name="SumOfNaturalNumbers" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Power" ConfigName="Debug"/>
+      <Project Name="TaylorSeries" ConfigName="Debug"/>
+      <Project Name="FibonacciSeries" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Recursion" ConfigName="Release"/>
+      <Project Name="StaticGlobal" ConfigName="Release"/>
+      <Project Name="TailRecursion" ConfigName="Release"/>
+      <Project Name="HeadRecursion" ConfigName="Release"/>
+      <Project Name="TreeRecursion" ConfigName="Release"/>
+      <Project Name="NestedRecursion" ConfigName="Release"/>
+      <Project Name="SumOfNaturalNumbers" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Power" ConfigName="Release"/>
+      <Project Name="TaylorSeries" ConfigName="Release"/>
+      <Project Name="FibonacciSeries" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

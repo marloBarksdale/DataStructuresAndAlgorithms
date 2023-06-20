@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaVersions.iml" filepath="$PROJECT_DIR$/JavaVersions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wew.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wew.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wew.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wew.test.iml" />
+    </modules>
+  </component>
+</project>

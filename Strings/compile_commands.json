@@ -1,0 +1,17 @@
+[{
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutationsSwapping/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutationsSwapping",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutationsSwapping/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutationsSwapping/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutations/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutations",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutations/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/GeneratePermutations/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/FindDuplicatesInStringUsingBits/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/FindDuplicatesInStringUsingBits",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/FindDuplicatesInStringUsingBits/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/FindDuplicatesInStringUsingBits/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/ReverseString/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/ReverseString",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/ReverseString/main.cpp\" -o \"/home/marlobarksdale/Dropbox/Data Structures and Algorithms(Mar 5 2023)/Strings/ReverseString/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

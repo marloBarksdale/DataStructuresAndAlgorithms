@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Strings" Database="" Version="10000">
+  <Project Name="ReverseString" Path="ReverseString/ReverseString.project" Active="No"/>
+  <Project Name="FindDuplicatesInStringUsingBits" Path="FindDuplicatesInStringUsingBits/FindDuplicatesInStringUsingBits.project" Active="No"/>
+  <Project Name="GeneratePermutations" Path="GeneratePermutations/GeneratePermutations.project" Active="No"/>
+  <Project Name="GeneratePermutationsSwapping" Path="GeneratePermutationsSwapping/GeneratePermutationsSwapping.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ReverseString" ConfigName="Debug"/>
+      <Project Name="FindDuplicatesInStringUsingBits" ConfigName="Debug"/>
+      <Project Name="GeneratePermutations" ConfigName="Debug"/>
+      <Project Name="GeneratePermutationsSwapping" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ReverseString" ConfigName="Release"/>
+      <Project Name="FindDuplicatesInStringUsingBits" ConfigName="Release"/>
+      <Project Name="GeneratePermutations" ConfigName="Release"/>
+      <Project Name="GeneratePermutationsSwapping" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
