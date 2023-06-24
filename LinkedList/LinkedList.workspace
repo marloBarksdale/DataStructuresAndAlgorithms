@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="LinkedList" Database="" Version="10000">
-  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
-  <Project Name="CircularLinkedList" Path="CircularLinkedList/CircularLinkedList.project" Active="Yes"/>
+  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="Yes"/>
+  <Project Name="CircularLinkedList" Path="CircularLinkedList/CircularLinkedList.project" Active="No"/>
   <Project Name="DoublyLinkedList" Path="DoublyLinkedList/DoublyLinkedList.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">

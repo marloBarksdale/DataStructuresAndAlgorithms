@@ -404,6 +404,32 @@ bool hasLoop(Node* p)
     return false;
 }
 
+Node* reverseNtoK(Node* head, int n, int k)
+{
+
+    Node* dummy = (struct Node*)malloc(sizeof(struct Node));
+
+    dummy->next = head;
+    Node* sublistHead = dummy;
+
+    int x = 1;
+    while(x++ < n) {
+        sublistHead = sublistHead->next;
+    }
+
+    Node* cur = sublistHead->next;
+
+    while(n++ < k) {
+
+        Node* temp = cur->next;
+        cur->next = temp->next;
+        temp->next = sublistHead->next;
+        sublistHead->next = temp;
+    }
+
+    return dummy->next;
+}
+
 int main()
 {
 
@@ -417,83 +443,51 @@ int main()
 
     //    add(list, 75);
     //    insertLast(list, 6000);
-    insertSorted(list, 42);
-    insertSorted(list, 5);
-    insertSorted(list, 254);
-    insertSorted(list, 34);
-    insertSorted(list, 595);
-    insertSorted(list, 3343);
-    insertSorted(list, 34);
-    insertSorted(list, 234);
-    insertSorted(list, 2344);
-    insertSorted(list2, 734);
-    insertSorted(list2, 2234);
-    insertSorted(list2, 809);
-    insertSorted(list2, 2372);
-    insertSorted(list2, 4);
-    insertSorted(list2, 15);
-    insertSorted(list2, 419);
-    insertSorted(list2, 232);
-    insertSorted(list2, 663);
-    insertSorted(list2, -1);
-    insertSorted(list2, -5);
+    insertSorted(list, 1);
+    insertSorted(list, 2);
+    //    insertSorted(list, 3);
+    //    insertSorted(list, 4);
+    //    insertSorted(list, 5);
+    //    insertSorted(list, 6);
+    //    insertSorted(list, 3343);
+    //    insertSorted(list, 34);
+    //    insertSorted(list, 234);
+    //    insertSorted(list, 2344);
 
-    //    add(list, 200);
-    //
+    //    insertSorted(list2, 734);
+    //    insertSorted(list2, 2234);
+    //    insertSorted(list2, 809);
+    //    insertSorted(list2, 2372);
+    //    insertSorted(list2, 4);
+    //    insertSorted(list2, 15);
+    //    insertSorted(list2, 419);
+    //    insertSorted(list2, 232);
+    //    insertSorted(list2, 663);
+    //    insertSorted(list2, -1);
+    //    insertSorted(list2, -5);
+
     displayRecursive(list->head);
-    displayRecursive(list2->head);
-    //    displayRecursive(mergeLinkedList(list->head, list2->head));
 
-//   list->last->next = list->last;
+        list->head = reverseNtoK(list->head, 1, 2);
 
-    if(hasLoop(list->head)) {
+    Node* dummy = (struct Node*)malloc(sizeof(struct Node));
+    dummy->next = list->head;
+    Node *temp = dummy;
 
-        printf("\ntrue\n");
-    } else {
-        printf("\nfalse\n");
+    int k = 2;
+    int i = 0;
+    int j = k;
+
+    while(temp != NULL) {
+
+        if(i == j) {
+
+            list->head = reverseNtoK(list->head, j - k + 1, j);
+            j += k;
+        }
+        i++;
+        temp = temp->next;
     }
 
-    //    reverseLinkedListRecursive(list, NULL, list->head);
-    //    reverseLinkedListRecursive(list2, NULL, list2->head);
-    //    displayRecursive(list->head);
-    //    displayRecursive(list2->head);
-
-    //    displayRecursiveReverse(list->head);
-    //    insertAfter(list, 4, 45);
-    //    displayRecursive(list->head);
-    //    add(list, 200);
-    //    add(list, 500);
-    //    insertAfter(list, 5, 555);
-//       displayRecursive(list->head);
-//    //    insertAfter(list, 3, 590);
-
-    //    removeDuplicates(list);
-    //    displayRecursive(list->head);
-    //    cout << endl;
-    //    deleteNode(list, 5);
-    //    deleteNode(list, 1);
-    //    deleteNode(list, 28);
-    //    //    insertLast(list, 2);
-    //    displayRecursive(list->head);
-    //    //    displayRecursiveReverse(list->head);
-    //
-    //    printf("\n%d nodes.", countNodes(list->head));
-    //    printf("\n%d total.", sumOfNodes(list->head));
-    //    printf("\n%d max.", maxOfLinkedList(list->head));
-    //    int searchVal = 75;
-    //
-    //    if(isSorted(list)) {
-    //        printf("\nis Sorted.");
-    //    } else {
-    //        printf("\nnot Sorted.");
-    //    }
-    //
-    //    Node* result = search(list->head, searchVal);
-    //
-    //    if(result != NULL) {
-    //
-    //        printf("\n%d found.", searchVal);
-    //    } else {
-    //        printf("\n%d not found.", searchVal);
-    //    }
+    displayRecursive(list->head);
 }

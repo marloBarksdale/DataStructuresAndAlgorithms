@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Stack_Array" Database="" Version="10000">
+  <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+  <Project Name="Stack_LinkedList" Path="Stack_LinkedList/Stack_LinkedList.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Stack_LinkedList" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Stack_LinkedList" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DoublyLinkedList - Debug ]----------"
-	@cd "DoublyLinkedList" && "$(MAKE)" -f  "DoublyLinkedList.mk"
+	@echo "----------Building project:[ LinkedList - Debug ]----------"
+	@cd "LinkedList" && "$(MAKE)" -f  "LinkedList.mk"
 clean:
-	@echo "----------Cleaning project:[ DoublyLinkedList - Debug ]----------"
-	@cd "DoublyLinkedList" && "$(MAKE)" -f  "DoublyLinkedList.mk" clean
+	@echo "----------Cleaning project:[ LinkedList - Debug ]----------"
+	@cd "LinkedList" && "$(MAKE)" -f  "LinkedList.mk" clean
