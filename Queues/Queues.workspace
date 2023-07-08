@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Queues" Database="" Version="10000">
+  <Project Name="Queue_Array" Path="Queue_Array/Queue_Array.project" Active="No"/>
+  <Project Name="Circular_Queue" Path="Circular_Queue/Circular_Queue.project" Active="No"/>
+  <Project Name="Queue_LinkedList" Path="Queue_LinkedList/Queue_LinkedList.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Queue_Array" ConfigName="Debug"/>
+      <Project Name="Circular_Queue" ConfigName="Debug"/>
+      <Project Name="Queue_LinkedList" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Queue_Array" ConfigName="Release"/>
+      <Project Name="Circular_Queue" ConfigName="Release"/>
+      <Project Name="Queue_LinkedList" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
